@@ -60,6 +60,7 @@ h2 {
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
+    padding: 7.5px 0;
 }
 
 .item.flipped .item-inner {
